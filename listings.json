@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-15T22:17:26.721818+00:00",
+ "updated": "2026-11-15T22:58:12.214456+00:00",
  "sources": {
   "willhaben": 23,
   "immowelt": 1,
-  "derstandard": 0,
+  "derstandard": "Fehler: HTTP Error 403: Forbidden",
   "immoscout24": 0,
-  "findmyhome": "Fehler: HTTP Error 404: Not Found",
+  "findmyhome": "Fehler: <urlopen error timed out>",
   "wohnnet": 0,
   "immodirekt": "Fehler: HTTP Error 404: Not Found",
   "immobilien.net": 0,
