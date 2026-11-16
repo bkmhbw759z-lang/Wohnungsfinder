@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-16T01:12:56.543079+00:00",
+ "updated": "2026-11-16T02:31:18.107701+00:00",
  "sources": {
   "willhaben": 23,
-  "immowelt": 1,
-  "derstandard": 0,
+  "immowelt": 0,
+  "derstandard": "Fehler: HTTP Error 403: Forbidden",
   "immoscout24": 0,
-  "findmyhome": "Fehler: HTTP Error 404: Not Found",
+  "findmyhome": "Fehler: <urlopen error timed out>",
   "wohnnet": 0,
   "immodirekt": "Fehler: HTTP Error 404: Not Found",
   "immobilien.net": 0,
@@ -355,21 +355,6 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/1090-wien-38m-garconniere-neubau-6-liftstock-1181188912/",
    "img": "https://cache.willhaben.at/mmo/2/118/118/8912_-1719606016.jpg",
    "source": "willhaben",
-   "first_seen": "2026-11-15T20:45:49.360272+00:00"
-  },
-  {
-   "id": "immowelt:https://www.immowelt.at/expose/c1b6d57f-aef4-4283-ae84-6a6fd47a86ce",
-   "title": "1 / 21 587 € Nettokaltmiete Wohnung zur Miete - Erstbezug 1 Zimmer · 42,1 m² · Geschoss 2/1 Wien (1050) Valmac",
-   "price": 587.0,
-   "rooms": 1.0,
-   "size": 42.1,
-   "plz": "1050",
-   "location": "immowelt",
-   "url": "https://www.immowelt.at/expose/c1b6d57f-aef4-4283-ae84-6a6fd47a86ce",
-   "img": "https://mms.immowelt.de/a/5/a/2/a5a22007-51ca-48a6-844d-b7135cc6ddc8.jpg?h=50",
-   "score": 1,
-   "warn": false,
-   "source": "immowelt",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   }
  ]
