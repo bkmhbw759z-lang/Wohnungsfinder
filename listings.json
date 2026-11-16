@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-16T16:20:08.319033+00:00",
+ "updated": "2026-11-16T17:38:59.205962+00:00",
  "sources": {
-  "willhaben": 22,
+  "willhaben": 21,
   "immowelt": 0,
   "derstandard": "Fehler: HTTP Error 403: Forbidden",
   "immoscout24": 0,
-  "findmyhome": "Fehler: <urlopen error timed out>",
+  "findmyhome": "Fehler: HTTP Error 404: Not Found",
   "wohnnet": 0,
   "immodirekt": "Fehler: HTTP Error 404: Not Found",
   "immobilien.net": 0,
@@ -234,21 +234,6 @@
    "warn": false,
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstrasse/-bitte-keine-neuen-anfragen-mehr-10-10-lage-am-rochusmarkt-helle-ruhige-23m-single-wohnung-all-in-miete-ein-traum-fuer-studenten-922753614/",
    "img": "https://cache.willhaben.at/mmo/4/922/753/614_1493667126.jpg",
-   "source": "willhaben",
-   "first_seen": "2026-11-15T20:45:49.360272+00:00"
-  },
-  {
-   "id": "2071121013",
-   "title": "Charmante Wohnung mit Wohnküche und Kabinett in ruhiger Innenhoflage - 1060 Wien",
-   "price": 529.0,
-   "rooms": 2.0,
-   "size": 38.0,
-   "plz": "1060",
-   "location": "Wien, 06. Bezirk, Mariahilf",
-   "score": 4,
-   "warn": false,
-   "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1060-mariahilf/charmante-wohnung-mit-wohnkueche-und-kabinett-in-ruhiger-innenhoflage-1060-wien-2071121013/",
-   "img": "https://cache.willhaben.at/mmo/3/207/112/1013_-44869351.jpg",
    "source": "willhaben",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
