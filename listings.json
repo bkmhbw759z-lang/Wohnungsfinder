@@ -1,16 +1,31 @@
 {
- "updated": "2026-11-16T19:06:56.150380+00:00",
+ "updated": "2026-11-16T19:29:11.785147+00:00",
  "sources": {
-  "willhaben": 21,
+  "willhaben": 16,
   "immowelt": 0,
-  "derstandard": "Fehler: HTTP Error 403: Forbidden",
+  "derstandard": 0,
   "immoscout24": 0,
   "findmyhome": "Fehler: HTTP Error 404: Not Found",
   "wohnnet": 0,
   "immodirekt": "Fehler: HTTP Error 404: Not Found",
   "immobilien.net": 0,
+  "kurier": 0,
+  "immmo": 0,
+  "bazar": "Fehler: HTTP Error 404: Not Found",
+  "mietguru": "Fehler: HTTP Error 404: Not Found",
+  "studenteninserate": 0,
+  "heute": "Fehler: HTTP Error 404: Not Found",
+  "oeh": 0,
+  "engelvoelkers": "Fehler: HTTP Error 404: Not Found",
+  "arwag": "Fehler: HTTP Error 404: Not Found",
+  "ticon": "Fehler: HTTP Error 404: Not Found",
+  "wilman": "Fehler: <urlopen error [Errno -2] Name or service not known>",
+  "seefeld": "Fehler: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate ",
   "remax": 0
  },
+ "dead": [
+  "1703544624"
+ ],
  "listings": [
   {
    "id": "1401442295",
@@ -25,6 +40,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/apartments-mit-kuechenzeile-in-1220-wien-zu-mieten-1401442295/",
    "img": "https://cache.willhaben.at/mmo/5/140/144/2295_1672194268.jpg",
    "source": "willhaben",
+   "checked": "2026-11-16T19:29:11.785147+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -40,6 +56,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstrasse/zentral-gelegene-moeblierte-1-zimmerwohnung-im-3-bezirk-1972281821/",
    "img": "https://cache.willhaben.at/mmo/1/197/228/1821_-1703477282.jpg",
    "source": "willhaben",
+   "checked": "2026-11-16T19:29:11.785147+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -55,6 +72,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/2-zimmer-genossenschaftswohnung-unbefristet-1337746478/",
    "img": "https://cache.willhaben.at/mmo/8/133/774/6478_651477005.jpg",
    "source": "willhaben",
+   "checked": "2026-11-16T19:29:11.785147+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -70,6 +88,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/vollmoebliertes-double-studio-m-mit-all-in-miete-in-naehe-u2-donaustadtbruecke-1849285537/",
    "img": "https://cache.willhaben.at/mmo/7/184/928/5537_1610337067.jpg",
    "source": "willhaben",
+   "checked": "2026-11-16T19:29:11.785147+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -85,6 +104,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/vollmoebliertes-double-studio-s-mit-all-in-miete-in-naehe-u2-donaustadtbruecke-963985116/",
    "img": "https://cache.willhaben.at/mmo/6/963/985/116_-1069965862.jpg",
    "source": "willhaben",
+   "checked": "2026-11-16T19:29:11.785147+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -100,6 +120,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/moderne-1-zimmer-wohnung-in-der-tokiostrasse-12-all-inclusive-wohnen-1707416673/",
    "img": "https://cache.willhaben.at/mmo/3/170/741/6673_-1485925904.jpg",
    "source": "willhaben",
+   "checked": "2026-11-16T19:29:11.785147+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -115,6 +136,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/com22plus-1220-wien-sonja-hajek-weg-7-36-attraktiv-gefoerderte-mietwohnung-mit-deckenkuehlung-und-loggia-mit-blick-ins-gruene-885282758/",
    "img": "https://cache.willhaben.at/mmo/8/885/282/758_-877619344.jpg",
    "source": "willhaben",
+   "checked": "2026-11-16T19:29:11.785147+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -130,6 +152,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/com22plus-1220-wien-sonja-hajek-weg-7-5-attraktiv-gefoerderte-mietwohnung-mit-deckenkuehlung-und-loggia-mit-blick-ins-gruene-1298859374/",
    "img": "https://cache.willhaben.at/mmo/4/129/885/9374_-877619344.jpg",
    "source": "willhaben",
+   "checked": "2026-11-16T19:29:11.785147+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -145,21 +168,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1200-brigittenau/charmante-sanierte-1-zimmer-wohnung-mit-einbaukueche-unbefristet-zu-vermieten-1374142492/",
    "img": "https://cache.willhaben.at/mmo/2/137/414/2492_-1678333632.png",
    "source": "willhaben",
-   "first_seen": "2026-11-15T20:45:49.360272+00:00"
-  },
-  {
-   "id": "1703544624",
-   "title": "Zweitwohnsitz-Appartment teilmöbliert für 6 Monate",
-   "price": 650.0,
-   "rooms": 1.0,
-   "size": 42.0,
-   "plz": "1090",
-   "location": "Wien, 09. Bezirk, Alsergrund",
-   "score": 3,
-   "warn": false,
-   "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/zweitwohnsitz-appartment-teilmoebliert-fuer-6-monate-1703544624/",
-   "img": "https://cache.willhaben.at/mmo/4/170/354/4624_1095543122.jpg",
-   "source": "willhaben",
+   "checked": "2026-11-16T19:29:11.785147+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -175,21 +184,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/die-zimmerei-dein-winter-in-wien-moebliertes-apartment-nahe-der-universitaet-sfu-wu-bigger-bude-764581368/",
    "img": "https://cache.willhaben.at/mmo/8/764/581/368_2141972393.jpg",
    "source": "willhaben",
-   "first_seen": "2026-11-15T20:45:49.360272+00:00"
-  },
-  {
-   "id": "1877752639",
-   "title": "Gemütliche 2-Zimmer-Altbauwohnung im 3. Bezirk - Perfekt für Studierende & Berufstätige",
-   "price": 455.0,
-   "rooms": 2.0,
-   "size": 39.0,
-   "plz": "1030",
-   "location": "Wien, 03. Bezirk, Landstraße",
-   "score": 6,
-   "warn": false,
-   "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstrasse/gemuetliche-2-zimmer-altbauwohnung-im-3-bezirk-perfekt-fuer-studierende-berufstaetige-1877752639/",
-   "img": "https://cache.willhaben.at/mmo/9/187/775/2639_-1647109688.jpg",
-   "source": "willhaben",
+   "checked": "2026-11-16T19:29:11.785147+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -205,6 +200,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/ruhige-1-zimmerwohnung-in-1050-1578596326/",
    "img": "https://cache.willhaben.at/mmo/6/157/859/6326_1302656333.jpg",
    "source": "willhaben",
+   "checked": "2026-11-16T19:29:11.785147+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -220,21 +216,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/anfragenstopp-wohnung-im-9-bezirk-1641442290/",
    "img": "https://cache.willhaben.at/mmo/0/164/144/2290_189440175.jpg",
    "source": "willhaben",
-   "first_seen": "2026-11-15T20:45:49.360272+00:00"
-  },
-  {
-   "id": "922753614",
-   "title": "(bitte keine neuen Anfragen mehr)10/10 Lage am Rochusmarkt: Helle, ruhige 23m² Single-Wohnung (All-in Miete) - Ein Traum für Studenten!",
-   "price": 590.0,
-   "rooms": 1.0,
-   "size": 23.0,
-   "plz": "1030",
-   "location": "Wien, 03. Bezirk, Landstraße",
-   "score": 3,
-   "warn": false,
-   "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstrasse/-bitte-keine-neuen-anfragen-mehr-10-10-lage-am-rochusmarkt-helle-ruhige-23m-single-wohnung-all-in-miete-ein-traum-fuer-studenten-922753614/",
-   "img": "https://cache.willhaben.at/mmo/4/922/753/614_1493667126.jpg",
-   "source": "willhaben",
+   "checked": "2026-11-16T19:29:11.785147+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -250,36 +232,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/die-zimmerei-prater-uni-naehe-moeblierte-wohnung-mit-balkon-in-der-leopoldstadt-large-bude-1863023441/",
    "img": "https://cache.willhaben.at/mmo/1/186/302/3441_-196179262.jpg",
    "source": "willhaben",
-   "first_seen": "2026-11-15T20:45:49.360272+00:00"
-  },
-  {
-   "id": "1370426545",
-   "title": "Schöne Sanierte Singlewohnung beim Prater",
-   "price": 498.3,
-   "rooms": 1.0,
-   "size": 33.0,
-   "plz": "1020",
-   "location": "Wien, 02. Bezirk, Leopoldstadt",
-   "score": 4,
-   "warn": false,
-   "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/schoene-sanierte-singlewohnung-beim-prater-1370426545/",
-   "img": "https://cache.willhaben.at/mmo/5/137/042/6545_-95124088.jpg",
-   "source": "willhaben",
-   "first_seen": "2026-11-15T20:45:49.360272+00:00"
-  },
-  {
-   "id": "1358544516",
-   "title": "ANFRAGEN STOP Suche Nachmieter für Wohnung",
-   "price": 454.0,
-   "rooms": 2.0,
-   "size": 60.0,
-   "plz": "1220",
-   "location": "Wien, 22. Bezirk, Donaustadt",
-   "score": 4,
-   "warn": false,
-   "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/anfragen-stop-suche-nachmieter-fuer-wohnung-1358544516/",
-   "img": "https://cache.willhaben.at/mmo/6/135/854/4516_-2070047418.jpg",
-   "source": "willhaben",
+   "checked": "2026-11-16T19:29:11.785147+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -295,21 +248,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/vollmoebliertes-double-studio-l-mit-all-in-miete-in-naehe-u2-donaustadtbruecke-1537063988/",
    "img": "https://cache.willhaben.at/mmo/8/153/706/3988_-1069965862.jpg",
    "source": "willhaben",
-   "first_seen": "2026-11-15T20:45:49.360272+00:00"
-  },
-  {
-   "id": "2116675377",
-   "title": "LAGER___Bacherplatz",
-   "price": 430.0,
-   "rooms": 2.0,
-   "size": 51.0,
-   "plz": "1050",
-   "location": "Wien, 05. Bezirk, Margareten",
-   "score": 4,
-   "warn": false,
-   "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/lager-bacherplatz-2116675377/",
-   "img": "https://cache.willhaben.at/mmo/7/211/667/5377_-985991924.jpg",
-   "source": "willhaben",
+   "checked": "2026-11-16T19:29:11.785147+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -325,6 +264,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/1090-wien-38m-garconniere-neubau-6-liftstock-1181188912/",
    "img": "https://cache.willhaben.at/mmo/2/118/118/8912_-1719606016.jpg",
    "source": "willhaben",
+   "checked": "2026-11-16T19:29:11.785147+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   }
  ]
