@@ -1,5 +1,5 @@
 """Wohnungsfinder WU Wien: holt willhaben-Mietwohnungen, filtert, schreibt listings.json."""
-import json, os, re, time, urllib.parse, urllib.request
+import json, os, re, time, urllib.error, urllib.parse, urllib.request
 from datetime import datetime, timezone
 
 MAX_PRICE = 650                      # Gesamtmiete inkl. BK
@@ -8,7 +8,9 @@ PLZ = {"1010", "1020", "1030", "1040", "1050", "1060", "1070", "1080", "1090", "
 # Näher an der WU = höherer Score
 PLZ_SCORE = {"1020": 4, "1030": 3, "1090": 3, "1200": 3, "1010": 2, "1080": 2,
              "1040": 2, "1060": 1, "1070": 1, "1050": 1, "1220": 1}
-BAD_TEXT = re.compile(r"wohn-?ticket|wiener wohnen|gemeindewohnung|gemeindebau|smart-?wohnung|"
+RESERVED = re.compile(r"(?<!rechte )reserviert|(?<!nicht )\bvermietet\b|anfrage-?stopp|nicht mehr verfügbar|"
+                      r"bereits vergeben|derzeit keine anfragen|inserat (ist )?(abgelaufen|inaktiv)|nicht mehr online", re.I)
+BAD_TEXT = re.compile(RESERVED.pattern + r"|wohn-?ticket|wiener wohnen|gemeindewohnung|gemeindebau|smart-?wohnung|"
                       r"\bwg\b|wohngemeinschaft|mitbewohner|zimmer in (einer|der) wohnung|"
                       r"untermiete|nur für studenten.*wg", re.I)
 OUT = "listings.json"
@@ -37,6 +39,8 @@ def num(s):
     except (TypeError, ValueError): return None
 
 def parse(ad):
+    st = (ad.get("advertStatus") or {}).get("id")
+    if st and st != "active": return None          # reserviert/inaktiv laut willhaben
     plz = str(attr(ad, "POSTCODE") or "")
     price = num(attr(ad, "RENT/PER_MONTH_LETTINGS", "PRICE"))
     rooms = num(attr(ad, "NUMBER_OF_ROOMS"))
@@ -65,6 +69,19 @@ def finish(l, source):
     l["source"] = source
     return l
 
+def verify(l):
+    """False, wenn Inserat gelöscht (404) oder als reserviert/vermietet markiert ist."""
+    try:
+        html = urllib.request.urlopen(urllib.request.Request(l["url"], headers=HEADERS), timeout=25).read().decode("utf-8", "ignore")
+    except urllib.error.HTTPError as e:
+        return e.code not in (404, 410)
+    except Exception:
+        return True
+    from bs4 import BeautifulSoup
+    soup = BeautifulSoup(html, "html.parser")
+    for t in soup(["script", "style", "nav", "footer"]): t.decompose()
+    return not RESERVED.search(soup.get_text(" ", strip=True)[:3000])
+
 def notify(new):
     tok, chat = os.getenv("TG_TOKEN"), os.getenv("TG_CHAT")
     if not (tok and chat): return
@@ -77,6 +94,8 @@ def main():
     old = {}
     if os.path.exists(OUT):
         old = {l["id"]: l for l in json.load(open(OUT)).get("listings", [])}
+    dead = set()
+    if os.path.exists(OUT): dead = set(json.load(open(OUT)).get("dead", []))
     found, status = {}, {}
     for p in (1, 2, 3):
         try: ads = fetch_page(p)
@@ -106,13 +125,22 @@ def main():
     if not found and not old:
         print("Keine Treffer / Parser prüfen"); return
     now = datetime.now(timezone.utc).isoformat()
+    for i in list(found):
+        if i in dead: del found[i]
+        elif i in old: found[i]["checked"] = old[i].get("checked", "")
+    # Detailseiten prüfen (25 pro Lauf, neue und am längsten ungeprüfte zuerst)
+    for l in sorted(found.values(), key=lambda x: x.get("checked", ""))[:25]:
+        if verify(l): l["checked"] = now
+        else: dead.add(l["id"]); del found[l["id"]]
+        time.sleep(1)
     new = []
     for i, l in found.items():
         l["first_seen"] = old.get(i, {}).get("first_seen", now)
         if i not in old: new.append(l)
     notify(new)
-    json.dump({"updated": now, "sources": status, "listings": list(found.values())}, open(OUT, "w"), ensure_ascii=False, indent=1)
+    json.dump({"updated": now, "sources": status, "dead": sorted(dead)[-3000:], "listings": list(found.values())}, open(OUT, "w"), ensure_ascii=False, indent=1)
     print(len(found), "Treffer,", len(new), "neu")
 
 if __name__ == "__main__":
     main()
+
