@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-16T11:24:36.730349+00:00",
+ "updated": "2026-11-16T14:07:49.533661+00:00",
  "sources": {
-  "willhaben": 23,
+  "willhaben": 22,
   "immowelt": 0,
-  "derstandard": 0,
+  "derstandard": "Fehler: HTTP Error 403: Forbidden",
   "immoscout24": 0,
   "findmyhome": "Fehler: HTTP Error 404: Not Found",
   "wohnnet": 0,
@@ -12,6 +12,21 @@
   "remax": 0
  },
  "listings": [
+  {
+   "id": "1401442295",
+   "title": "Apartments mit Küchenzeile - in 1220 Wien zu mieten",
+   "price": 611.11,
+   "rooms": 1.0,
+   "size": 30.0,
+   "plz": "1220",
+   "location": "Wien, 22. Bezirk, Donaustadt",
+   "score": 1,
+   "warn": false,
+   "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/apartments-mit-kuechenzeile-in-1220-wien-zu-mieten-1401442295/",
+   "img": "https://cache.willhaben.at/mmo/5/140/144/2295_1672194268.jpg",
+   "source": "willhaben",
+   "first_seen": "2026-11-15T20:45:49.360272+00:00"
+  },
   {
    "id": "1972281821",
    "title": "zentral gelegene, möblierte 1-Zimmerwohnung im 3. Bezirk",
@@ -39,21 +54,6 @@
    "warn": false,
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/2-zimmer-genossenschaftswohnung-unbefristet-1337746478/",
    "img": "https://cache.willhaben.at/mmo/8/133/774/6478_651477005.jpg",
-   "source": "willhaben",
-   "first_seen": "2026-11-15T20:45:49.360272+00:00"
-  },
-  {
-   "id": "895828941",
-   "title": "Kleinwohnung",
-   "price": 480.0,
-   "rooms": 1.0,
-   "size": 28.0,
-   "plz": "1040",
-   "location": "Wien, 04. Bezirk, Wieden",
-   "score": 2,
-   "warn": false,
-   "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1040-wieden/kleinwohnung-895828941/",
-   "img": "https://cache.willhaben.at/mmo/1/895/828/941_946575792.jpg",
    "source": "willhaben",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
@@ -159,21 +159,6 @@
    "warn": false,
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/zweitwohnsitz-appartment-teilmoebliert-fuer-6-monate-1703544624/",
    "img": "https://cache.willhaben.at/mmo/4/170/354/4624_1095543122.jpg",
-   "source": "willhaben",
-   "first_seen": "2026-11-15T20:45:49.360272+00:00"
-  },
-  {
-   "id": "1401442295",
-   "title": "Apartments mit Küchenzeile - in 1220 Wien zu mieten",
-   "price": 611.11,
-   "rooms": 1.0,
-   "size": 30.0,
-   "plz": "1220",
-   "location": "Wien, 22. Bezirk, Donaustadt",
-   "score": 1,
-   "warn": false,
-   "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/apartments-mit-kuechenzeile-in-1220-wien-zu-mieten-1401442295/",
-   "img": "https://cache.willhaben.at/mmo/5/140/144/2295_1672194268.jpg",
    "source": "willhaben",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
