@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-21T17:40:06.376283+00:00",
+ "updated": "2026-11-21T18:22:38.035516+00:00",
  "sources": {
-  "willhaben": 20,
+  "willhaben": 14,
   "immowelt": 0,
   "derstandard": "Fehler: HTTP Error 403: Forbidden",
   "immoscout24": 0,
@@ -40,42 +40,10 @@
    "score": 4,
    "warn": false,
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/privat-wohnung-1756987428/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/8/175/698/7428_-1288930491_hoved.jpg",
+   "img": "https://cache.willhaben.at/mmo/8/175/698/7428_-1288930491.jpg",
    "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
+   "checked": "2026-11-21T18:22:38.035516+00:00",
    "first_seen": "2026-11-21T13:42:06.928201+00:00"
-  },
-  {
-   "id": "1425747514",
-   "title": "Wohnung in 1050 35m2 ab sofort €650",
-   "price": 650.0,
-   "rooms": 1.0,
-   "size": 35.0,
-   "plz": "1050",
-   "location": "Wien, 05. Bezirk, Margareten",
-   "score": 1,
-   "warn": false,
-   "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/wohnung-in-1050-35m2-ab-sofort-650-1425747514/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/4/142/574/7514_142526911_hoved.jpg",
-   "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
-   "first_seen": "2026-11-21T12:28:20.905305+00:00"
-  },
-  {
-   "id": "1545486499",
-   "title": "Kleine Büros nahe Praterstern - ab sofort zur All-in-Miete verfügbar!",
-   "price": 480.0,
-   "rooms": null,
-   "size": null,
-   "plz": "1020",
-   "location": "Wien, 02. Bezirk, Leopoldstadt",
-   "score": 4,
-   "warn": false,
-   "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/wien/wien-1020-leopoldstadt/kleine-bueros-nahe-praterstern-ab-sofort-zur-all-in-miete-verfuegbar-1545486499/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/9/154/548/6499_-640177310_hoved.jpg",
-   "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
-   "first_seen": "2026-11-21T12:28:20.905305+00:00"
   },
   {
    "id": "1061930686",
@@ -88,9 +56,9 @@
    "score": 3,
    "warn": false,
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/charmante-1-zimmer-wohnung-im-dachgeschoss-nahe-schottentor-1061930686/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/6/106/193/0686_1850396252_hoved.jpg",
+   "img": "https://cache.willhaben.at/mmo/6/106/193/0686_1850396252.jpg",
    "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
+   "checked": "2026-11-21T18:22:38.035516+00:00",
    "first_seen": "2026-11-20T14:54:52.176887+00:00"
   },
   {
@@ -104,9 +72,9 @@
    "score": 5,
    "warn": false,
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1080-josefstadt/zentral-wohnen-am-albertplatz-825918315/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/5/825/918/315_1354904094_hoved.jpg",
+   "img": "https://cache.willhaben.at/mmo/5/825/918/315_1354904094.jpg",
    "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
+   "checked": "2026-11-21T18:22:38.035516+00:00",
    "first_seen": "2026-11-19T15:39:18.596944+00:00"
   },
   {
@@ -120,26 +88,10 @@
    "score": 3,
    "warn": false,
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1200-brigittenau/unbefristete-single-garconniere-in-hofruhelage-beim-augarten-1526400502/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/2/152/640/0502_-317942390_hoved.jpg",
+   "img": "https://cache.willhaben.at/mmo/2/152/640/0502_-317942390.jpg",
    "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
+   "checked": "2026-11-21T18:22:38.035516+00:00",
    "first_seen": "2026-11-19T11:57:54.657993+00:00"
-  },
-  {
-   "id": "1917107439",
-   "title": "Tiefgaragenstellplatz Billy Wilder Promenade 7 - Village im Dritten",
-   "price": 200.0,
-   "rooms": null,
-   "size": 15.0,
-   "plz": "1030",
-   "location": "Wien, 03. Bezirk, Landstraße",
-   "score": 3,
-   "warn": false,
-   "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstrasse/tiefgaragenstellplatz-billy-wilder-promenade-7-village-im-dritten-1917107439/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/9/191/710/7439_-2073830927_hoved.jpg",
-   "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
-   "first_seen": "2026-11-21T12:28:20.905305+00:00"
   },
   {
    "id": "1835040021",
@@ -152,9 +104,9 @@
    "score": 2,
    "warn": false,
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1040-wieden/renovierte-garconniere-im-sonnwendviertel-beim-hauptbahnhof-1835040021/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/1/183/504/0021_-490646277_hoved.jpg",
+   "img": "https://cache.willhaben.at/mmo/1/183/504/0021_-490646277.jpg",
    "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
+   "checked": "2026-11-21T18:22:38.035516+00:00",
    "first_seen": "2026-11-17T10:43:29.007398+00:00"
   },
   {
@@ -168,9 +120,9 @@
    "score": 2,
    "warn": false,
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1010-innere-stadt/several-districts-550-per-month-only-550-deposit-837416013/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/3/837/416/013_-253240962_hoved.jpg",
+   "img": "https://cache.willhaben.at/mmo/3/837/416/013_-253240962.jpg",
    "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
+   "checked": "2026-11-21T18:22:38.035516+00:00",
    "first_seen": "2026-11-17T09:40:44.056261+00:00"
   },
   {
@@ -184,26 +136,10 @@
    "score": 3,
    "warn": false,
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstrasse/zentral-gelegene-moeblierte-1-zimmerwohnung-im-3-bezirk-1972281821/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/1/197/228/1821_-1703477282_hoved.jpg",
+   "img": "https://cache.willhaben.at/mmo/1/197/228/1821_-1703477282.jpg",
    "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
+   "checked": "2026-11-21T18:22:38.035516+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
-  },
-  {
-   "id": "1020606758",
-   "title": "Kleingarten zur Pacht. - Neue Gartenanlage in Planung: Jetzt vormerken lassen!",
-   "price": 150.0,
-   "rooms": null,
-   "size": null,
-   "plz": "1220",
-   "location": "Wien, 22. Bezirk, Donaustadt",
-   "score": 1,
-   "warn": false,
-   "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/kleingarten-zur-pacht-neue-gartenanlage-in-planung-jetzt-vormerken-lassen-1020606758/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/8/102/060/6758_2099657069_hoved.jpg",
-   "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
-   "first_seen": "2026-11-21T12:28:20.905305+00:00"
   },
   {
    "id": "1849285537",
@@ -216,9 +152,9 @@
    "score": 4,
    "warn": false,
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/vollmoebliertes-double-studio-m-mit-all-in-miete-in-naehe-u2-donaustadtbruecke-1849285537/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/7/184/928/5537_1610337067_hoved.jpg",
+   "img": "https://cache.willhaben.at/mmo/7/184/928/5537_1610337067.jpg",
    "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
+   "checked": "2026-11-21T18:22:38.035516+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -232,26 +168,10 @@
    "score": 4,
    "warn": false,
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/vollmoebliertes-double-studio-s-mit-all-in-miete-in-naehe-u2-donaustadtbruecke-963985116/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/6/963/985/116_-1069965862_hoved.jpg",
+   "img": "https://cache.willhaben.at/mmo/6/963/985/116_-1069965862.jpg",
    "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
+   "checked": "2026-11-21T18:22:38.035516+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
-  },
-  {
-   "id": "2084110472",
-   "title": "Unbefristete 30 m² Wohnung in Hofruhelage - 1030 Wien | 423 € | Einzelgarage optional",
-   "price": 423.0,
-   "rooms": null,
-   "size": 30.0,
-   "plz": "1030",
-   "location": "Wien, 03. Bezirk, Landstraße",
-   "score": 3,
-   "warn": false,
-   "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstrasse/unbefristete-30-m-wohnung-in-hofruhelage-1030-wien-423-einzelgarage-optional-2084110472/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/2/208/411/0472_-1032111963_hoved.png",
-   "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
-   "first_seen": "2026-11-21T11:27:34.371586+00:00"
   },
   {
    "id": "764581368",
@@ -264,9 +184,9 @@
    "score": 4,
    "warn": false,
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/die-zimmerei-dein-winter-in-wien-moebliertes-apartment-nahe-der-universitaet-sfu-wu-bigger-bude-764581368/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/8/764/581/368_2141972393_hoved.jpg",
+   "img": "https://cache.willhaben.at/mmo/8/764/581/368_2141972393.jpg",
    "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
+   "checked": "2026-11-21T18:22:38.035516+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -280,9 +200,9 @@
    "score": 1,
    "warn": false,
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/ruhige-1-zimmerwohnung-in-1050-1578596326/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/6/157/859/6326_1302656333_hoved.jpg",
+   "img": "https://cache.willhaben.at/mmo/6/157/859/6326_1302656333.jpg",
    "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
+   "checked": "2026-11-21T18:22:38.035516+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -296,9 +216,9 @@
    "score": 4,
    "warn": false,
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/die-zimmerei-prater-uni-naehe-moeblierte-wohnung-mit-balkon-in-der-leopoldstadt-large-bude-1863023441/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/1/186/302/3441_-196179262_hoved.jpg",
+   "img": "https://cache.willhaben.at/mmo/1/186/302/3441_-196179262.jpg",
    "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
+   "checked": "2026-11-21T18:22:38.035516+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -312,9 +232,9 @@
    "score": 4,
    "warn": false,
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/vollmoebliertes-double-studio-l-mit-all-in-miete-in-naehe-u2-donaustadtbruecke-1537063988/",
-   "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/8/153/706/3988_-1069965862_hoved.jpg",
+   "img": "https://cache.willhaben.at/mmo/8/153/706/3988_-1069965862.jpg",
    "source": "willhaben",
-   "checked": "2026-11-21T17:40:06.376283+00:00",
+   "checked": "2026-11-21T18:22:38.035516+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   }
  ]
