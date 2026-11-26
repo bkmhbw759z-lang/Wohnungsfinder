@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-26T00:32:38.865961+00:00",
+ "updated": "2026-11-26T02:01:01.381279+00:00",
  "sources": {
   "willhaben": 18,
   "immowelt": 0,
   "derstandard": 0,
   "immoscout24": 0,
-  "findmyhome": "Fehler: HTTP Error 404: Not Found",
+  "findmyhome": "Fehler: <urlopen error timed out>",
   "wohnnet": 0,
   "immodirekt": "Fehler: HTTP Error 404: Not Found",
   "immobilien.net": 0,
@@ -42,7 +42,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/studentenwohnung-wu-naehe-1378311223/",
    "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/3/137/831/1223_-723864934_hoved.jpg",
    "source": "willhaben",
-   "checked": "2026-11-26T00:32:38.865961+00:00",
+   "checked": "2026-11-26T02:01:01.381279+00:00",
    "first_seen": "2026-11-24T10:10:34.699292+00:00"
   },
   {
@@ -58,7 +58,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1040-wieden/suche-nachmieter-fuer-28m2-wohnung-mit-balkon-naehe-belvedere-ab-1-januar-1682915684/",
    "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/4/168/291/5684_-45789109_hoved.jpg",
    "source": "willhaben",
-   "checked": "2026-11-26T00:32:38.865961+00:00",
+   "checked": "2026-11-26T02:01:01.381279+00:00",
    "first_seen": "2026-11-24T08:59:33.139401+00:00"
   },
   {
@@ -74,7 +74,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/wien/wien-1020-leopoldstadt/kleine-bueros-nahe-praterstern-ab-sofort-zur-all-in-miete-verfuegbar-1545486499/",
    "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/9/154/548/6499_-640177310_hoved.jpg",
    "source": "willhaben",
-   "checked": "2026-11-26T00:32:38.865961+00:00",
+   "checked": "2026-11-26T02:01:01.381279+00:00",
    "first_seen": "2026-11-23T06:02:46.995715+00:00"
   },
   {
@@ -90,7 +90,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/charmante-1-zimmer-wohnung-im-dachgeschoss-nahe-schottentor-1061930686/",
    "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/6/106/193/0686_1850396252_hoved.jpg",
    "source": "willhaben",
-   "checked": "2026-11-26T00:32:38.865961+00:00",
+   "checked": "2026-11-26T02:01:01.381279+00:00",
    "first_seen": "2026-11-20T14:54:52.176887+00:00"
   },
   {
@@ -106,7 +106,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1080-josefstadt/zentral-wohnen-am-albertplatz-825918315/",
    "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/5/825/918/315_1354904094_hoved.jpg",
    "source": "willhaben",
-   "checked": "2026-11-26T00:32:38.865961+00:00",
+   "checked": "2026-11-26T02:01:01.381279+00:00",
    "first_seen": "2026-11-19T15:39:18.596944+00:00"
   },
   {
@@ -122,7 +122,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1040-wieden/renovierte-garconniere-im-sonnwendviertel-beim-hauptbahnhof-1835040021/",
    "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/1/183/504/0021_-490646277_hoved.jpg",
    "source": "willhaben",
-   "checked": "2026-11-26T00:32:38.865961+00:00",
+   "checked": "2026-11-26T02:01:01.381279+00:00",
    "first_seen": "2026-11-17T10:43:29.007398+00:00"
   },
   {
@@ -138,7 +138,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstrasse/zentral-gelegene-moeblierte-1-zimmerwohnung-im-3-bezirk-1972281821/",
    "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/1/197/228/1821_-1703477282_hoved.jpg",
    "source": "willhaben",
-   "checked": "2026-11-26T00:32:38.865961+00:00",
+   "checked": "2026-11-26T02:01:01.381279+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -154,7 +154,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/kleingarten-zur-pacht-neue-gartenanlage-in-planung-jetzt-vormerken-lassen-1020606758/",
    "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/8/102/060/6758_2099657069_hoved.jpg",
    "source": "willhaben",
-   "checked": "2026-11-26T00:32:38.865961+00:00",
+   "checked": "2026-11-26T02:01:01.381279+00:00",
    "first_seen": "2026-11-23T06:02:46.995715+00:00"
   },
   {
@@ -170,7 +170,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/vollmoebliertes-double-studio-m-mit-all-in-miete-in-naehe-u2-donaustadtbruecke-1849285537/",
    "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/7/184/928/5537_1610337067_hoved.jpg",
    "source": "willhaben",
-   "checked": "2026-11-26T00:32:38.865961+00:00",
+   "checked": "2026-11-26T02:01:01.381279+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -186,7 +186,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/vollmoebliertes-double-studio-s-mit-all-in-miete-in-naehe-u2-donaustadtbruecke-963985116/",
    "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/6/963/985/116_-1069965862_hoved.jpg",
    "source": "willhaben",
-   "checked": "2026-11-26T00:32:38.865961+00:00",
+   "checked": "2026-11-26T02:01:01.381279+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -202,7 +202,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstrasse/unbefristete-30-m-wohnung-in-hofruhelage-1030-wien-423-einzelgarage-optional-2084110472/",
    "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/2/208/411/0472_-1032111963_hoved.png",
    "source": "willhaben",
-   "checked": "2026-11-26T00:32:38.865961+00:00",
+   "checked": "2026-11-26T02:01:01.381279+00:00",
    "first_seen": "2026-11-23T06:02:46.995715+00:00"
   },
   {
@@ -218,7 +218,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/die-zimmerei-dein-winter-in-wien-moebliertes-apartment-nahe-der-universitaet-sfu-wu-bigger-bude-764581368/",
    "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/8/764/581/368_2141972393_hoved.jpg",
    "source": "willhaben",
-   "checked": "2026-11-26T00:32:38.865961+00:00",
+   "checked": "2026-11-26T02:01:01.381279+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -234,7 +234,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/nachmieter-fuer-genossenschaftswohnung-820407614/",
    "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/4/820/407/614_401450319_hoved.jpg",
    "source": "willhaben",
-   "checked": "2026-11-26T00:32:38.865961+00:00",
+   "checked": "2026-11-26T02:01:01.381279+00:00",
    "first_seen": "2026-11-24T18:33:47.503877+00:00"
   },
   {
@@ -250,7 +250,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/2-zimmer-wohnung-in-kaisermuehlen-verfuegbar-ab-sofort-1887294990/",
    "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/0/188/729/4990_-1185131750_hoved.jpg",
    "source": "willhaben",
-   "checked": "2026-11-26T00:32:38.865961+00:00",
+   "checked": "2026-11-26T02:01:01.381279+00:00",
    "first_seen": "2026-11-25T10:07:50.440390+00:00"
   },
   {
@@ -266,7 +266,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/die-zimmerei-prater-uni-naehe-moeblierte-wohnung-mit-balkon-in-der-leopoldstadt-large-bude-1863023441/",
    "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/1/186/302/3441_-196179262_hoved.jpg",
    "source": "willhaben",
-   "checked": "2026-11-26T00:32:38.865961+00:00",
+   "checked": "2026-11-26T02:01:01.381279+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   },
   {
@@ -282,7 +282,7 @@
    "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1220-donaustadt/vollmoebliertes-double-studio-l-mit-all-in-miete-in-naehe-u2-donaustadtbruecke-1537063988/",
    "img": "https://cache.willhaben.at/mmo/https://cache.willhaben.at/mmo/8/153/706/3988_-1069965862_hoved.jpg",
    "source": "willhaben",
-   "checked": "2026-11-26T00:32:38.865961+00:00",
+   "checked": "2026-11-26T02:01:01.381279+00:00",
    "first_seen": "2026-11-15T20:45:49.360272+00:00"
   }
  ]
